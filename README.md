@@ -1,1 +1,1 @@
-# Archivos-utilizados-para-development-testing-configs
+# Coleccion de archivos de diferentes fines
